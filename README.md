@@ -1,2 +1,2 @@
 # custom-maven-plugin
-A Maven Plugin That Counts How Many Dependencies That A Project Contains
+A Maven Plugin that counts how many dependencies that a project contains.
